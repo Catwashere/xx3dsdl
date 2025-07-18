@@ -1,0 +1,8 @@
+.vscode/*
+.DS_Store
+
+*.app
+*.o
+xx3dsdl
+
+lodepng.*
